@@ -1,4 +1,4 @@
-# Hi, I'm Chrok 👋
+# Hi, I'm Chistian O. Yemba 👋
 
 ## Full-Stack Software Developer | System Integration Specialist
 
@@ -6,7 +6,7 @@ I'm a **bilingual (English/French) software developer** passionate about buildin
 
 ---
 
-## 🛠️ Technical Expertise
+##  Technical Expertise
 
 ### Languages & Frameworks
 - **Frontend:** React 18, TypeScript, HTML5, CSS3, Vite
@@ -22,7 +22,7 @@ I'm a **bilingual (English/French) software developer** passionate about buildin
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### [FindIT](https://github.com/chroksys/FindIT) | Event Discovery Platform
 Modern event discovery and hosting platform for Uganda built with **React + TypeScript, Supabase, and Mapbox**. Features real-time notifications, ticket management, and analytics dashboard.
@@ -37,7 +37,7 @@ Comprehensive healthcare management solution for clinic operations, patient reco
 
 ---
 
-## 💡 What I Do Best
+##  What I Do Best
 
 ✅ **Design & Architecture** – Translate complex requirements into scalable technical solutions  
 ✅ **Full-Stack Development** – From database to UI, with focus on maintainability  
@@ -47,13 +47,13 @@ Comprehensive healthcare management solution for clinic operations, patient reco
 
 ---
 
-## 🌐 Languages
+##  Languages
 - **English** – Fluent
 - **French** – Fluent
 
 ---
 
-## 📫 Let's Connect
+##  Let's Connect
 
 I'm always interested in discussing:
 - Full-stack development opportunities
@@ -65,4 +65,4 @@ Feel free to reach out or explore my repositories to see my work in action!
 
 ---
 
-*Building scalable solutions, one commit at a time.* 🚀
+*Building scalable solutions, one commit at a time.* 
